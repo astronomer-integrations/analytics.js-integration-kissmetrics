@@ -1,5 +1,5 @@
 {
-  "name": "@segment/analytics.js-integration-kissmetrics",
+  "name": "@astronomerio/analytics.js-integration-kissmetrics",
   "description": "The Kissmetrics analytics.js integration.",
   "version": "2.1.1",
   "keywords": [

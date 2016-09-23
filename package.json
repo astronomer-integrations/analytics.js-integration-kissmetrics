@@ -1,5 +1,5 @@
 {
-  "name": "@segment/analytics.js-integration-kissmetrics",
+  "name": "@astronomerio/analytics.js-integration-kissmetrics",
   "description": "The Kissmetrics analytics.js integration.",
   "version": "2.1.1",
   "keywords": [
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/segment-integrations/analytics.js-integration-kissmetrics.git"
+    "url": "git+https://github.com/astronomer-integrations/analytics.js-integration-kissmetrics.git"
   },
-  "author": "Segment <friends@segment.com>",
+  "author": "Astronomer <info@astronomer.io>",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/segment-integrations/analytics.js-integration-kissmetrics/issues"
+    "url": "https://github.com/astronomer-integrations/analytics.js-integration-kissmetrics/issues"
   },
-  "homepage": "https://github.com/segment-integrations/analytics.js-integration-kissmetrics#readme",
+  "homepage": "https://github.com/astronomer-integrations/analytics.js-integration-kissmetrics#readme",
   "dependencies": {
     "@ndhoule/extend": "^2.0.0",
     "@segment/analytics.js-integration": "^2.1.0",
